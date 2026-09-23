@@ -1,3 +1,4 @@
+![Wright Leslie — Tecnología, ideas y proyectos](banner.svg)
 # Hola, soy Wright Leslie 👋
 
 Fundador de [WrightLeslie19581](https://github.com/WrightLeslie19581), una organización donde desarrollo y comparto proyectos digitales.
