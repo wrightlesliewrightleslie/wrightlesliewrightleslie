@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Wright Leslie 👋
 
-<!--
-**wrightlesliewrightleslie/wrightlesliewrightleslie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fundador de [WrightLeslie19581](https://github.com/WrightLeslie19581), una organización donde desarrollo y comparto proyectos digitales.
 
-Here are some ideas to get you started:
+## En qué estoy trabajando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy construyendo la presencia web de WrightLeslie19581 y organizando sus primeros proyectos en GitHub.
+
+### Proyecto destacado
+
+**[Sitio de WrightLeslie19581](https://wrightleslie19581.github.io/primer-proyecto/)**  
+Una página inicial para presentar la organización y mostrar sus avances.
+
+---
+
+[Ver la organización](https://github.com/WrightLeslie19581) · [Explorar el repositorio](https://github.com/WrightLeslie19581/primer-proyecto)
